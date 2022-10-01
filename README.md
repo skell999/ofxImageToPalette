@@ -44,6 +44,7 @@ Limitations
 
 Further work
 -------------
+* Option to create a deterministic output.
 * Add functions to change a palettes brightness, contrast, etc.
 * Experiment with using ofColor.getLightness() to filter out similar colors.
 * Experiment with using L\*A\*B\* distance to pick colors that are very unique.
